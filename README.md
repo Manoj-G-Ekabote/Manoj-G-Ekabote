@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there, I'm Manoj G Ekabote! 👋
 
-<!--
-**Manoj-G-Ekabote/Manoj-G-Ekabote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 Information Science and Engineering student at Atria Institute of Technology.
+- 💻 Interested in programming, problem-solving and software development.
+- 🌱 Currently learning Java and Data Structures & Algorithms.
+- 🔭 Exploring Artificial Intelligence, Data Science, Web Development and Cloud Computing.
+- 🚀 Interested in building innovative projects and learning new technologies.
+- 🎯 My goal is to become a skilled software developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming Languages
+
+- C
+- Java
+  
+
+### 🛠️ Areas of Interest
+
+- Artificial Intelligence
+- Data Science
+- Web Development
+- Cloud Computing
+- Software Development
+
+### 📚 Currently Learning
+
+- Java Programming
+- Data Structures & Algorithms
+- Git and GitHub
+
+### 🤝 Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/manoj-g-ekabote-a1a381393)
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+
