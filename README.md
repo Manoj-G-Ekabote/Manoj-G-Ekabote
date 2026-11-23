@@ -31,7 +31,7 @@
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/manoj-g-ekabote-a1a381393)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/manoj-g-ekabote-a1a381393/)
 
 ---
 
